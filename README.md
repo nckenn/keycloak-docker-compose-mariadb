@@ -1,6 +1,6 @@
 # Keycloak Docker setup with MariaDB
 
-A Keycloak setup from development to production.
+A Keycloak setup for development and production.
 
 ## Guide
 
